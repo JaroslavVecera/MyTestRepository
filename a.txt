@@ -1,1 +1,1 @@
-pand
+pandas
